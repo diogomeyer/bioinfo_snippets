@@ -15,4 +15,6 @@ e vou comentar
 2. Log de orientação
 3. Incluir datas e autoria
 
+x$\mathbf{Y}$ be $2 \times N$
+
 - - - - - - 
